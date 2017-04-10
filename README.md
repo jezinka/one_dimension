@@ -4,7 +4,7 @@ Python/PyGame implementation of Elementary cellular automaton. Description of al
 
 To install pygame type in console
 
-pip install pygame
+>>pip install pygame
 To start just run
 
-python gameboard.py
+>>python gameboard.py
